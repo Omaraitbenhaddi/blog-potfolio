@@ -125,7 +125,7 @@ const experiences = [
     company_name: "3D smart factory",
     icon: smartFactory,
     iconBg: "#E6DEDD",
-    date: "June 2023 - July 2023",
+    date: "June 2023 - aout 2023",
     points: [
       "Developed the Production Pipeline and ensured Model Monitoring while managing AWS CloudWatch for infrastructure",
       "Collaborated e|ectively with team members on GitHub, created a Flask-based web application, and led AWS Deployment e|orts",
@@ -155,7 +155,7 @@ const experiences = [
     company_name: "ORANGE",
     icon: orange,
     iconBg: "#383E56",
-    date: "Jan 2023 - Current",
+    date: "Jan 2022 - March 2022",
     points: [
       "Conceived, designed, developed, and deployed a web/mobile application using Flutter and Django REST framework, providing an intuitive interface and features for users to manage their grades and assignments. Synchronized data across all devices.",
       "Continued development of the application, implementing new features and ensuring bug fixes, resulting in improved user experience and overall functionality.",
